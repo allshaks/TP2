@@ -46,4 +46,7 @@ def esDirigido(file):
             
         return False
 
-
+def intersect(l1, l2): 
+# Intersección entre dos listas.
+    l3 = [value for value in l1 if value in l2] 
+    return l3
