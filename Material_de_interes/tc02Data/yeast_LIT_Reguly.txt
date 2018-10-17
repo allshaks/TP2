@@ -1,4 +1,4 @@
-Bait gene/protein	Hit gene/protein	Bait Standard Name	Hit Standard Name	Experimental System	Source	PubMed ID
+Peronismo -cqwqd---
 YBR236C	YML010W	ABD1	SPT5	Affinity Capture-MS	Lindstrom DL et al	12556496
 YML010W	YBR236C	SPT5	ABD1	Affinity Capture-MS	Lindstrom DL et al	12556496
 YDR448W	YPL254W	ADA2	HFI1	Affinity Capture-MS	Rodriguez-Navarro S et al	14718168
